@@ -1,0 +1,80 @@
+[
+  {
+    "Price": 35.02,
+    "Stock": "In stock",
+    "Title": "Rip it Up and ...",
+    "Rating": 5
+  },
+  {
+    "Price": 57.25,
+    "Stock": "In stock",
+    "Title": "Our Band Could Be ...",
+    "Rating": 4
+  },
+  {
+    "Price": 37.32,
+    "Stock": "In stock",
+    "Title": "How Music Works",
+    "Rating": 2
+  },
+  {
+    "Price": 18.03,
+    "Stock": "Out of stock",
+    "Title": "Love Is a Mix ...",
+    "Rating": 1
+  },
+  {
+    "Price": 31.19,
+    "Stock": "In stock",
+    "Title": "Please Kill Me: The ...",
+    "Rating": 4
+  },
+  {
+    "Price": 45.0,
+    "Stock": "In stock",
+    "Title": "Kill 'Em and Leave: ...",
+    "Rating": 5
+  },
+  {
+    "Price": 52.6,
+    "Stock": "Out of stock",
+    "Title": "Chronicles, Vol. 1",
+    "Rating": 2
+  },
+  {
+    "Price": 38.4,
+    "Stock": "In stock",
+    "Title": "This Is Your Brain ...",
+    "Rating": 1
+  },
+  {
+    "Price": 12.36,
+    "Stock": "In stock",
+    "Title": "Orchestra of Exiles: The ...",
+    "Rating": 3
+  },
+  {
+    "Price": 20.02,
+    "Stock": "In stock",
+    "Title": "No One Here Gets ...",
+    "Rating": 5
+  },
+  {
+    "Price": 31.58,
+    "Stock": "In stock",
+    "Title": "Life",
+    "Rating": 5
+  },
+  {
+    "Price": 55.66,
+    "Stock": "Out of Stock",
+    "Title": "Old Records Never Die: ...",
+    "Rating": 2
+  },
+  {
+    "Price": 28.8,
+    "Stock": "In stock",
+    "Title": "Forever Rockers (The Rocker ...",
+    "Rating": 3
+  }
+]
